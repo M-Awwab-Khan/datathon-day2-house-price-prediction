@@ -1,0 +1,17 @@
+The description of the 16 columns are as follows:
+1. property_id: Unique identifier for each property.
+2. location_id: Identifier for the location of the property.
+3. RowID: Unique identifier for each row/observation in the dataset.
+4. price: Price of the property in Rupees (label)
+5. no_of_bathrooms: Number of bathrooms in the property.
+6. degree_of_latitude: Latitude coordinates of the property.
+7. degree_of_longitude: Longitude coordinates of the property.
+8. no_of_bedrooms: Number of bedrooms in the property.
+9. space_occupied: Total area or space occupied by the property.
+10. listing_purpose: Purpose of the property listing (e.g., sale, rent).
+11. category_property: Category of the property (e.g., house,flat and etc).
+12. listing_date: Date when the property was listed.
+13. estate_agency: Name of the estate agency responsible for the listing.
+14. salesperson: Name of the salesperson handling the property.
+15. area:  Area or locality where the property is located.
+16. has_garage: Binary indicator of whether the property has a garage.
